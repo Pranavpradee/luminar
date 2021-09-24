@@ -1,0 +1,21 @@
+/* h1 { font-family: Muli; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Muli; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Muli; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Muli; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Muli; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; } */
+
+.nav-header{
+    display: flex;
+    /* color: #5e068a; */
+    background-color:#5e068a;
+}
+.navhead{
+    justify-content: flex-end;
+    align-items:center;
+    /* background-color:white; */
+    margin-right: 700px;
+
+}
+.nav_header{
+    background-color:#5e068a;
+}
+.head{
+    display: flex;
+    /* color: #5e068a; */
+}
